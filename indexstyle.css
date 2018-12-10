@@ -1,0 +1,51 @@
+.titletext {
+  text-align:left;
+  color: black;
+  font-size: 400%;
+}
+.featurette-heading {
+  margin-top: 50px;
+}
+
+.smaller-featurette-heading {
+  margin-top: 0px;
+  font-size: 40px;
+}
+
+.header {
+	background-image: url(images/wallpaper.jpg);
+	background-position: top;
+	background-size: cover;
+	height:400px;
+}
+.header h1 {
+	color: white;
+	padding-top: 270px;
+	font-size: 600%;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.jumbotron-narrow {
+  padding-top:8rem;
+  padding-bottom:4rem;
+}
+
+.featurette-heading-lower{
+  padding-top:4rem;
+  padding-bottom:2rem;
+}
+
+.signup-featurette {
+  padding-top:0rem;
+  padding-bottom:4rem;
+  width:100%;
+}
+
+.presser-featurette {
+  padding-top:5rem;
+  padding-bottom:4rem;
+}
+.wallpaper {
+  width: 100%;
+  height:auto;
+}
